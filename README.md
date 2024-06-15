@@ -1,6 +1,5 @@
-# Runkang Chen
-![logo](./RUST_RESULT.svg)
-- 👋 Hi, I’m @Runkang10
+# Hi
+- 👋 Hi, I’m Runkang Chen
 - 👀 I’m interested in Web development, coding / programing, ...
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust, mastering JavaScript.
 - 📌 Websites: [SyS App](https://www.sysapp.org/)
