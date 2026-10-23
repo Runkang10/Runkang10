@@ -7,3 +7,4 @@ I currently have and maintain these projects:
 - [AtomicCrash](https://github.com/Runkang10/AtomicCrash)
 - [AtomicFreeze](https://github.com/Runkang10/AtomicFreeze)
 - [FixedGameMode](https://github.com/Runkang10/FixedGameMode)
+- [compact-lib](https://github.com/Runkang10/compact-lib)
